@@ -151,11 +151,11 @@ def credits():
         pygame.display.update()
         clock.tick(60)
 
-#functions that calls restart function from main
+#functions that calls restart function from gameEngine.py
         
 def restartGame():
-   import main
-   main.restartGame() 
+   import gameEngine
+   gameEngine.restartGame() 
 
 #run menu
 menu()
