@@ -1,7 +1,7 @@
 #javid husseynly, rupen patel
 #june 12 2019
 
-#importing pygame
+#importing pygame (uses 1.9.4)
 import pygame
 
 #initializing pygame
